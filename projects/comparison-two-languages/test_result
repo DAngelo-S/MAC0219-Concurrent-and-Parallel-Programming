@@ -1,0 +1,141 @@
+Sistema Operacional
+Description:	Ubuntu 18.04.4 LTS
+
+CPU
+Nome do modelo:             Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+
+Versões
+Python 3.6.9
+g++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+Copyright (C) 2017 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Teste Python ---- Entrada: 24
+
+Teste 1 : 
+6.84user 0.02system 0:06.86elapsed 100%CPU (0avgtext+0avgdata 140332maxresident)k
+0inputs+0outputs (0major+33879minor)pagefaults 0swaps
+
+Teste 2 : 
+6.25user 0.02system 0:06.28elapsed 100%CPU (0avgtext+0avgdata 140372maxresident)k
+0inputs+0outputs (0major+33883minor)pagefaults 0swaps
+
+Teste 3 : 
+6.25user 0.02system 0:06.28elapsed 99%CPU (0avgtext+0avgdata 140460maxresident)k
+0inputs+0outputs (0major+33880minor)pagefaults 0swaps
+
+Teste 4 : 
+6.37user 0.02system 0:06.40elapsed 100%CPU (0avgtext+0avgdata 140476maxresident)k
+0inputs+0outputs (0major+33882minor)pagefaults 0swaps
+
+Teste 5 : 
+6.41user 0.02system 0:06.44elapsed 99%CPU (0avgtext+0avgdata 140356maxresident)k
+0inputs+0outputs (0major+33880minor)pagefaults 0swaps
+
+
+Teste Python --- Entrada: 26
+
+Teste 1 : 
+26.19user 0.12system 0:26.32elapsed 99%CPU (0avgtext+0avgdata 533796maxresident)k
+0inputs+0outputs (0major+132187minor)pagefaults 0swaps
+
+Teste 2 : 
+26.50user 0.09system 0:26.60elapsed 99%CPU (0avgtext+0avgdata 533708maxresident)k
+0inputs+0outputs (0major+132186minor)pagefaults 0swaps
+
+Teste 3 : 
+29.65user 0.10system 0:29.75elapsed 100%CPU (0avgtext+0avgdata 533704maxresident)k
+0inputs+0outputs (0major+132184minor)pagefaults 0swaps
+
+Teste 4 : 
+26.46user 0.11system 0:26.58elapsed 100%CPU (0avgtext+0avgdata 533664maxresident)k
+0inputs+0outputs (0major+132184minor)pagefaults 0swaps
+
+Teste 5 : 
+26.52user 0.10system 0:26.63elapsed 99%CPU (0avgtext+0avgdata 533768maxresident)k
+0inputs+0outputs (0major+132184minor)pagefaults 0swaps
+
+
+
+
+Teste C++ ---- Entrada: 24
+
+Teste 1: 
+0.35user 0.00system 0:00.36elapsed 100%CPU (0avgtext+0avgdata 35384maxresident)k
+0inputs+0outputs (0major+8305minor)pagefaults 0swaps
+
+Teste 2: 
+0.35user 0.00system 0:00.35elapsed 100%CPU (0avgtext+0avgdata 35288maxresident)k
+0inputs+0outputs (0major+8305minor)pagefaults 0swaps
+
+Teste 3: 
+0.34user 0.00system 0:00.35elapsed 100%CPU (0avgtext+0avgdata 35288maxresident)k
+0inputs+0outputs (0major+8305minor)pagefaults 0swaps
+
+Teste 4: 
+0.39user 0.00system 0:00.40elapsed 100%CPU (0avgtext+0avgdata 35380maxresident)k
+0inputs+0outputs (0major+8305minor)pagefaults 0swaps
+
+Teste 5: 
+0.35user 0.00system 0:00.35elapsed 100%CPU (0avgtext+0avgdata 35320maxresident)k
+0inputs+0outputs (0major+8304minor)pagefaults 0swaps
+
+
+Teste C++ --- Entrada: 26
+
+Teste 1: 
+1.53user 0.01system 0:01.54elapsed 100%CPU (0avgtext+0avgdata 133536maxresident)k
+0inputs+0outputs (0major+32882minor)pagefaults 0swaps
+Teste 2: 
+1.51user 0.02system 0:01.54elapsed 99%CPU (0avgtext+0avgdata 133528maxresident)k
+0inputs+0outputs (0major+32880minor)pagefaults 0swaps
+Teste 3: 
+1.52user 0.02system 0:01.54elapsed 100%CPU (0avgtext+0avgdata 133624maxresident)k
+0inputs+0outputs (0major+32883minor)pagefaults 0swaps
+Teste 4: 
+1.51user 0.03system 0:01.54elapsed 100%CPU (0avgtext+0avgdata 133536maxresident)k
+0inputs+0outputs (0major+32881minor)pagefaults 0swaps
+Teste 5: 
+1.52user 0.03system 0:01.55elapsed 99%CPU (0avgtext+0avgdata 133524maxresident)k
+0inputs+0outputs (0major+32880minor)pagefaults 0swaps
+Teste C++ Otimizado ---- Entrada: 24
+
+Teste 1: 
+0.26user 0.00system 0:00.27elapsed 100%CPU (0avgtext+0avgdata 35336maxresident)k
+0inputs+0outputs (0major+8306minor)pagefaults 0swaps
+
+Teste 2: 
+0.26user 0.00system 0:00.26elapsed 100%CPU (0avgtext+0avgdata 35304maxresident)k
+0inputs+0outputs (0major+8304minor)pagefaults 0swaps
+
+Teste 3: 
+0.26user 0.00system 0:00.26elapsed 100%CPU (0avgtext+0avgdata 35416maxresident)k
+0inputs+0outputs (0major+8307minor)pagefaults 0swaps
+
+Teste 4: 
+0.26user 0.00system 0:00.26elapsed 100%CPU (0avgtext+0avgdata 35404maxresident)k
+0inputs+0outputs (0major+8309minor)pagefaults 0swaps
+
+Teste 5: 
+0.28user 0.00system 0:00.28elapsed 100%CPU (0avgtext+0avgdata 35332maxresident)k
+0inputs+0outputs (0major+8306minor)pagefaults 0swaps
+
+
+Teste C++ Otimizado --- Entrada: 26
+
+Teste 1: 
+1.11user 0.02system 0:01.13elapsed 100%CPU (0avgtext+0avgdata 133528maxresident)k
+0inputs+0outputs (0major+32880minor)pagefaults 0swaps
+Teste 2: 
+1.10user 0.02system 0:01.12elapsed 100%CPU (0avgtext+0avgdata 133496maxresident)k
+0inputs+0outputs (0major+32881minor)pagefaults 0swaps
+Teste 3: 
+1.07user 0.04system 0:01.12elapsed 100%CPU (0avgtext+0avgdata 133524maxresident)k
+0inputs+0outputs (0major+32880minor)pagefaults 0swaps
+Teste 4: 
+1.09user 0.03system 0:01.13elapsed 100%CPU (0avgtext+0avgdata 133656maxresident)k
+0inputs+0outputs (0major+32883minor)pagefaults 0swaps
+Teste 5: 
+1.10user 0.03system 0:01.13elapsed 100%CPU (0avgtext+0avgdata 133620maxresident)k
+0inputs+0outputs (0major+32886minor)pagefaults 0swaps
