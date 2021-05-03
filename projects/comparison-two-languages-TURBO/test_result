@@ -1,0 +1,102 @@
+Sistema Operacional
+Description:	Ubuntu 18.04.4 LTS
+
+CPU
+Nome do modelo:             Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+
+Versões
+Python 3.6.9
+g++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+Copyright (C) 2017 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+Teste Python ---- Entrada: 24
+
+Teste 1 : 
+6.44user 0.01system 0:06.45elapsed 100%CPU (0avgtext+0avgdata 74900maxresident)k
+0inputs+0outputs (0major+17501minor)pagefaults 0swaps
+
+Teste 2 : 
+6.41user 0.01system 0:06.42elapsed 100%CPU (0avgtext+0avgdata 74884maxresident)k
+0inputs+0outputs (0major+17501minor)pagefaults 0swaps
+
+Teste 3 : 
+6.37user 0.00system 0:06.38elapsed 99%CPU (0avgtext+0avgdata 74880maxresident)k
+0inputs+0outputs (0major+17500minor)pagefaults 0swaps
+
+Teste 4 : 
+6.45user 0.00system 0:06.45elapsed 99%CPU (0avgtext+0avgdata 74816maxresident)k
+0inputs+0outputs (0major+17498minor)pagefaults 0swaps
+
+Teste 5 : 
+6.42user 0.01system 0:06.44elapsed 99%CPU (0avgtext+0avgdata 74916maxresident)k
+0inputs+0outputs (0major+17502minor)pagefaults 0swaps
+
+
+Teste Python --- Entrada: 26
+
+Teste 1 : 
+27.28user 0.08system 0:27.63elapsed 99%CPU (0avgtext+0avgdata 271600maxresident)k
+0inputs+0outputs (0major+66653minor)pagefaults 0swaps
+
+Teste 2 : 
+26.47user 0.06system 0:26.53elapsed 99%CPU (0avgtext+0avgdata 271568maxresident)k
+0inputs+0outputs (0major+66653minor)pagefaults 0swaps
+
+Teste 3 : 
+26.23user 0.05system 0:26.29elapsed 99%CPU (0avgtext+0avgdata 271572maxresident)k
+0inputs+0outputs (0major+66654minor)pagefaults 0swaps
+
+Teste 4 : 
+26.47user 0.07system 0:26.55elapsed 99%CPU (0avgtext+0avgdata 271600maxresident)k
+0inputs+0outputs (0major+66653minor)pagefaults 0swaps
+
+Teste 5 : 
+26.19user 0.07system 0:26.26elapsed 99%CPU (0avgtext+0avgdata 271548maxresident)k
+0inputs+0outputs (0major+66653minor)pagefaults 0swaps
+
+
+
+
+Teste C++ ---- Entrada: 24
+
+Teste 1: 
+0.14user 0.00system 0:00.15elapsed 100%CPU (0avgtext+0avgdata 19508maxresident)k
+0inputs+0outputs (0major+4224minor)pagefaults 0swaps
+
+Teste 2: 
+0.15user 0.00system 0:00.16elapsed 99%CPU (0avgtext+0avgdata 19484maxresident)k
+0inputs+0outputs (0major+4223minor)pagefaults 0swaps
+
+Teste 3: 
+0.14user 0.00system 0:00.14elapsed 99%CPU (0avgtext+0avgdata 19376maxresident)k
+0inputs+0outputs (0major+4223minor)pagefaults 0swaps
+
+Teste 4: 
+0.13user 0.00system 0:00.14elapsed 99%CPU (0avgtext+0avgdata 19520maxresident)k
+0inputs+0outputs (0major+4224minor)pagefaults 0swaps
+
+Teste 5: 
+0.13user 0.00system 0:00.14elapsed 99%CPU (0avgtext+0avgdata 19368maxresident)k
+0inputs+0outputs (0major+4221minor)pagefaults 0swaps
+
+
+Teste C++ --- Entrada: 26
+
+Teste 1: 
+0.60user 0.02system 0:00.62elapsed 100%CPU (0avgtext+0avgdata 68472maxresident)k
+0inputs+0outputs (0major+16509minor)pagefaults 0swaps
+Teste 2: 
+0.59user 0.02system 0:00.62elapsed 99%CPU (0avgtext+0avgdata 68536maxresident)k
+0inputs+0outputs (0major+16510minor)pagefaults 0swaps
+Teste 3: 
+0.61user 0.00system 0:00.62elapsed 99%CPU (0avgtext+0avgdata 68540maxresident)k
+0inputs+0outputs (0major+16511minor)pagefaults 0swaps
+Teste 4: 
+0.60user 0.01system 0:00.62elapsed 99%CPU (0avgtext+0avgdata 68540maxresident)k
+0inputs+0outputs (0major+16511minor)pagefaults 0swaps
+Teste 5: 
+0.61user 0.00system 0:00.62elapsed 99%CPU (0avgtext+0avgdata 68472maxresident)k
+0inputs+0outputs (0major+16510minor)pagefaults 0swaps
