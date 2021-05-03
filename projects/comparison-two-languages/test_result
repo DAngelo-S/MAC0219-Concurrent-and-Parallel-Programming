@@ -99,6 +99,7 @@ Teste 4:
 Teste 5: 
 1.52user 0.03system 0:01.55elapsed 99%CPU (0avgtext+0avgdata 133524maxresident)k
 0inputs+0outputs (0major+32880minor)pagefaults 0swaps
+
 Teste C++ Otimizado ---- Entrada: 24
 
 Teste 1: 
