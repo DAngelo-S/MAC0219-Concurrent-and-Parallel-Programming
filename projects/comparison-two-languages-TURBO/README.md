@@ -19,8 +19,8 @@ The result was measured using the `time` command.
 **Source**: [version1.py](version1.py)
 
 **Average time answer for**
-- **N = 2^24**: 6.424 seconds.
-- **N = 2^26**: 27.064 seconds.
+- **N = 2^24**: 6.418 seconds.
+- **N = 2^26**: 26.528 seconds.
 
 ### Compiled Language
 
@@ -29,13 +29,7 @@ The result was measured using the `time` command.
 **Source**: [version2.cpp](version2.cpp)
 
 **Average time answer for**
-- **N = 2^24**: 0.356 seconds.
-- **N = 2^26**: 1.518 seconds.
-
-### Compiled Language Optimized Version
-
-**Average time answer for**
-- **N = 2^24**: 0.264 seconds.
-- **N = 2^26**: 1.094 seconds.
+- **N = 2^24**: 0.138 seconds.
+- **N = 2^26**: 0,602 seconds.
 
 More information, see the role test results [here](test_result) or the script test [here](test.sh).
