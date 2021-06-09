@@ -1,0 +1,4 @@
+O -O2 e -O3 tiveram poucas diferenças entre si, ou seja
+provavelmente não houve muita diferença no tamanho do binário
+e não houve muito cache-miss ou page-fault.
+
