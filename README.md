@@ -27,3 +27,6 @@ We will talk about:
 
 - **Comparison between two programming languages**:  
 Execute two programmings, that does the same job both, and compare its execution time. See more [here](projects/comparision-two-languages).
+
+## Plus
+- https://www.scielo.br/j/qn/a/5BxMHZcYyvKGNgHm6NrW9pf/?lang=pt
